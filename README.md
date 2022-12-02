@@ -9,10 +9,10 @@ go to #options in main.py and change that input variable to 'True', then run the
 
 
 ### Testing
-install pytest on your computer by using the following command in your terminal (or command prompt, if you're not a cringe mac/linux user)
+install pytest on your computer by using the following command in your terminal (or command prompt/git bash, if you're not a cringe mac/linux user)
 
 > pip install -U pytest
 
-then add pytest to your PATH, and navigate to the /src directory, where you then type the following
+then add pytest to your PATH. go back to your command prompt (or terminal, ew (unless said terminal is git bash)) and navigate to the /src directory, where you then type the following
 
 > pytest main.py
